@@ -1,4 +1,4 @@
-# Data-Pipeline-with-Power-BI-and-SQL
+# Data-Pipeline-with-Power-BI-and-MySQL
 I follow the video below from codebasics and learn how to implement data pipeline in real situation.
 
 https://www.youtube.com/watch?v=hhZ62IlTxYs&list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9
